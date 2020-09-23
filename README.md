@@ -21,7 +21,7 @@ The problem with Conky is that it is more of a text-based application. Which mea
 
 <ul>
 <li>apt install conky</li>
-<li>cd /etc/conky</li>
+<li>cd  /etc/conky</li>
 <li>rm conky.conf</li>
 </ul>
 
@@ -31,7 +31,7 @@ The problem with Conky is that it is more of a text-based application. Which mea
 <li>git clone https://github.com/r3k4t/rktconky.git</li>
 <li>cd rktconky</li>
 <li>ls</li>
-<li>mv conky.conf /etc/conky</li>
+<li>mv conky.conf   /etc/conky</li>
 <li>sudo conky</li>
 
 ### screenshots ###
